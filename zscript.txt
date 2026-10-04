@@ -1,0 +1,10 @@
+version "4.14"
+
+#include "zscript/mc_world.zs"
+#include "zscript/mc_fx.zs"
+#include "zscript/mc_story.zs"
+#include "zscript/mc_cat.zs"
+#include "zscript/mc_mobs.zs"
+#include "zscript/mc_weapons.zs"
+#include "zscript/mc_hud.zs"
+#include "zscript/mc_demo.zs"

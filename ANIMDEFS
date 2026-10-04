@@ -1,0 +1,43 @@
+// SuperIntelligent Cat - block textures (textures/ folder, usable on walls and floors)
+// Liquids are animated with explicit pic frames (does not depend on lump order).
+// The same textures/ entry serves walls and flats; GZDoom replaces a duplicate
+// animation of the same base picture, so defining both flat and texture is safe.
+
+flat MCWATER1
+	pic MCWATER1 tics 8
+	pic MCWATER2 tics 8
+	pic MCWATER3 tics 8
+	pic MCWATER4 tics 8
+
+texture MCWATER1
+	pic MCWATER1 tics 8
+	pic MCWATER2 tics 8
+	pic MCWATER3 tics 8
+	pic MCWATER4 tics 8
+
+flat MCLAVA1
+	pic MCLAVA1 tics 10
+	pic MCLAVA2 tics 10
+	pic MCLAVA3 tics 10
+	pic MCLAVA4 tics 10
+
+texture MCLAVA1
+	pic MCLAVA1 tics 10
+	pic MCLAVA2 tics 10
+	pic MCLAVA3 tics 10
+	pic MCLAVA4 tics 10
+
+flat MCSLIME1
+	pic MCSLIME1 tics 8
+	pic MCSLIME2 tics 8
+	pic MCSLIME3 tics 8
+	pic MCSLIME4 tics 8
+
+texture MCSLIME1
+	pic MCSLIME1 tics 8
+	pic MCSLIME2 tics 8
+	pic MCSLIME3 tics 8
+	pic MCSLIME4 tics 8
+
+// Lever switch: MCLEVR0 = lever up (off), MCLEVR1 = lever down (on, red glow)
+switch MCLEVR0 on pic MCLEVR1 tics 0 off pic MCLEVR0 tics 0

@@ -1,0 +1,5 @@
+GameInfo
+{
+	AddEventHandlers = "MCWorld", "MCStory", "MCDemo"
+	StatusBarClass = "MCStatusBar"
+}

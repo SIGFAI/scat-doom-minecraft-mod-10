@@ -1,0 +1,6 @@
+// SuperIntelligent Cat - Minecraft-like bitmap font rendered from Monocraft (SIL OFL 1.1, see ../mcfont-OFL.txt)
+// Glyphs: 9 px tall images, baseline after row 7 (7 px caps, 1 px descender), 1 px shadow at +1,+1 baked in.
+// Image width already includes the shadow column, which doubles as the 1 px letter gap (Minecraft spacing).
+Kerning 0
+SpaceWidth 4
+FontHeight 10

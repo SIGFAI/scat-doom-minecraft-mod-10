@@ -1,0 +1,32 @@
+// SuperIntelligent Cat - pickup messages, Minecraft edition
+[enu default]
+GOTSTIM = "Apple. An apple a day keeps the creepers away. (It does not.)";
+GOTMEDIKIT = "Cake! It's not a lie.";
+GOTMEDINEED = "Cake! You really needed that.";
+GOTHTHBONUS = "Glistering melon slice.";
+GOTARMBONUS = "Iron nugget.";
+GOTARMOR = "Iron chestplate!";
+GOTMEGA = "Diamond chestplate!";
+GOTSUPER = "Golden apple! Health boosted.";
+GOTMSPHERE = "Enchanted golden apple!";
+GOTCLIP = "Arrows.";
+GOTCLIPBOX = "A quiver full of arrows.";
+GOTSHELLS = "Crossbow bolts.";
+GOTSHELLBOX = "A chest of bolts.";
+GOTROCKET = "TNT.";
+GOTROCKBOX = "A stack of TNT.";
+GOTCELL = "Redstone dust.";
+GOTCELLBOX = "A block of redstone.";
+GOTBACKPACK = "A bundle! More room for loot.";
+GOTBLUECARD = "Blue key.";
+GOTYELWCARD = "Yellow key.";
+GOTREDCARD = "Red key.";
+GOTBLUESKUL = "Blue skull block.";
+GOTYELWSKUL = "Yellow skull block.";
+GOTREDSKUL = "Red skull block.";
+GOTBERSERK = "Potion of Strength!";
+GOTINVUL = "Totem of Undoing!";
+GOTINVIS = "Potion of Invisibility!";
+GOTSUIT = "Turtle shell helmet!";
+GOTMAP = "A map! The Cat already memorised it.";
+GOTVISOR = "Potion of Night Vision!";

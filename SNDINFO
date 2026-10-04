@@ -1,0 +1,68 @@
+// SuperIntelligent Cat - sounds (see CREDITS.md)
+
+cat/meow1      sounds/meow1.ogg
+cat/meow2      sounds/meow2.ogg
+cat/meow3      sounds/meow3.ogg
+$random cat/meow { cat/meow1 cat/meow2 cat/meow3 }
+cat/hiss       sounds/hiss.ogg
+cat/purr       sounds/purr.ogg
+cat/smug       sounds/catsmug.ogg
+
+mc/fuse        sounds/fuse.ogg
+mc/boom        sounds/boom.ogg
+mc/blockbreak  sounds/blockbrk.ogg
+mc/blockplace  sounds/blockplc.ogg
+mc/bowpull     sounds/bowpull.ogg
+mc/bowshot     sounds/bowshot.ogg
+mc/arrowhit    sounds/arrowhit.ogg
+mc/xp          sounds/xporb.ogg
+mc/levelup     sounds/levelup.ogg
+mc/toast       sounds/toast.ogg
+mc/pop         sounds/pop.ogg
+mc/eat         sounds/eat.ogg
+mc/burp        sounds/burp.ogg
+mc/anvil       sounds/anvil.ogg
+mc/sword       sounds/sword.ogg
+mc/swordhit    sounds/swordhit.ogg
+mc/pickaxe     sounds/pickaxe.ogg
+mc/tntshot     sounds/tntshot.ogg
+mc/dispense    sounds/dispense.ogg
+mc/blazeshot   sounds/blazeshot.ogg
+mc/door        sounds/door.ogg
+mc/lever       sounds/lever.ogg
+mc/playerhurt  sounds/hurtplayer.ogg
+
+zombie/idle    sounds/zombie1.ogg
+zombie/hurt    sounds/zombiehurt.ogg
+zombie/die     sounds/zombiedie.ogg
+skeleton/idle  sounds/skelrattle.ogg
+skeleton/hurt  sounds/skelhurt.ogg
+skeleton/die   sounds/skeldie.ogg
+spider/idle    sounds/spiderhiss.ogg
+spider/die     sounds/spiderdie.ogg
+ghast/cry      sounds/ghastcry.ogg
+ghast/fire     sounds/ghastfire.ogg
+ghast/die      sounds/ghastdie.ogg
+ender/tele     sounds/endertele.ogg
+ender/hurt     sounds/enderhurt.ogg
+ender/die      sounds/enderdie.ogg
+creeper/hurt   sounds/creeperhurt.ogg
+
+$limit mc/xp 4
+$limit mc/blockplace 3
+$limit mc/blockbreak 4
+
+// Doom's own player pain and doors, the Minecraft way
+$playersound player male *pain100 sounds/hurtplayer.ogg
+$playersound player male *pain75 sounds/hurtplayer.ogg
+$playersound player male *pain50 sounds/hurtplayer.ogg
+$playersound player male *pain25 sounds/hurtplayer.ogg
+doors/dr1_open sounds/door.ogg
+doors/dr1_clos sounds/door.ogg
+switches/normbutn sounds/lever.ogg
+switches/exitbutn sounds/lever.ogg
+misc/i_pkup    sounds/pop.ogg
+misc/health_pkup sounds/eat.ogg
+misc/armor_pkup sounds/pop.ogg
+misc/ammo_pkup sounds/pop.ogg
+misc/w_pkup    sounds/pop.ogg
