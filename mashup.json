@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "name": "SCAT, mod 10: Doom × Minecraft",
   "tagline": "Turn every game into Minecraft. This time, mix in Minecraft with a funny twist of your own.",
+  "how_to_play": [
+    "Start a new game: your SuperIntelligent Cat companion turns each Doom level into Minecraft blocks around you.",
+    "Fight blocky mobs with the Diamond Sword and the Bow; the cat scares creepers off and drops anvils on mobs.",
+    "Complete the cat's quests: defeat 8 mobs, make 3 creepers go boom, then defeat 25 mobs, for XP and achievements.",
+    "Doom's weapons and items become Minecraft gear like crossbows, TNT and golden apples as you find them."
+  ],
   "kind": "mashup",
   "games": [
     {
